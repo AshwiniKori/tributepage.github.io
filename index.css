@@ -1,0 +1,56 @@
+/* Styling Body element */
+body {
+    background-color: #00FA9A;
+    margin: 10%;
+}
+#unique{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    text-shadow: 5px 5px 10px black;
+}
+h3,h4 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Styling title */
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+/* Styling an image */
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+/* styling for image caption */
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+/* Styling conent of div and tribute-data */
+div#tribute-data {
+    background-color: rgb(46,139,87,0.25);
+    box-shadow: 20px 20px 20px #98fb98;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+h1.title-Gandhiji {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+#tribute-link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
